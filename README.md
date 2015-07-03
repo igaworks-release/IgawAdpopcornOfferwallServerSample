@@ -16,3 +16,15 @@
 1. Open Android Studio
 1. VCS > Checkout from Version Control > Git
 1. Paste to Vcs Repository URL, Clone
+
+# Adpopcorn Offerwall Sample (Server Type) 실행
+1. IGAW 홈페이지에서 발급받은 **앱키, 해시키**를 AndroidManifest.xml 파일에 입력
+1. 수익화 > adPOPcorn Offerwall > OfferWall 관리 메뉴로 이동 (_아래 설정을 모두 진행해야 테스트 광고 노출_)
+  * 기본 설정 
+    - 기본설정 > 연동방식 SDK 선택
+    - 가상화폐 설정 > 이름, 전환비율 설정
+  * 코드연동
+    - 리워드 지급 설정 > 개발사 자체 서버 선택
+  * 검수 및 최적화
+    - 테스트 디바이스 등록 후 설정
+1. 실행
