@@ -28,3 +28,11 @@
   * 검수 및 최적화
     - 테스트 디바이스 등록 후 설정
 1. 실행
+
+# Igaworks Adpopcorn Offerwall 연동하기
+연동 가이드와 샘플 프로젝트를 참고하여 연동을 진행합니다. </br>
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/adpopcorn_offerwall_aos" target="_blank">Igaworks Adpopcorn Offerwall 연동문서 바로가기</a>
+
+애드팝콘 오퍼월 서비스는 리워드 지급 처리가 필요합니다.</br> 
+서버 타입의 리워드 연동은 다음문서를 참고하여 진행합니다.</br>
+<a href="http://help.igaworks.com/hc/ko/3_3/Content/Article/reward_callback_server_guide" target="_blank">Server Rward 연동문서 바로가기</a>
